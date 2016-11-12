@@ -1,4 +1,14 @@
 name: example-environment
 
 dependencies:
-  - python=3.45  - folium  - ipyleaflet  - ipywidgets  - matplotlib  - numpy  - pandas  - pyproj  - ipython  - seaborn
+  - python=3.5
+  - ipyleaflet
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - pandas
+  - pyproj
+  - ipython
+  - seaborn
+  - pip:
+    - folium
