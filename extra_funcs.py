@@ -3,7 +3,7 @@ from ipywidgets import widgets
 import pandas as pd
 import numpy as np
 from collections import defaultdict
-from math import ceil, sqrt, pi, exp, log
+from math import ceil, sqrt, pi, exp, log, copysign
 from pyproj import Proj
 import seaborn as sns
 import matplotlib.pylab as plt
