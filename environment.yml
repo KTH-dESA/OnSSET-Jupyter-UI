@@ -1,8 +1,7 @@
-name: example-environment
+name: pyonsset-env
 
 dependencies:
   - python=3.5
-  - ipywidgets
   - matplotlib
   - numpy
   - pandas
@@ -11,4 +10,3 @@ dependencies:
   - seaborn
   - pip:
     - folium
-    - ipyleaflet
