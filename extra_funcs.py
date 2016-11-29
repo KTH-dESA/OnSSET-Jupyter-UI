@@ -8,6 +8,7 @@ import seaborn as sns
 import matplotlib.pylab as plt
 import folium
 import branca.colormap as cm
+import json
 
 SET_COUNTRY = 'Country'  # This cannot be changed, lots of code will break
 SET_X = 'X'  # Coordinate in kilometres
