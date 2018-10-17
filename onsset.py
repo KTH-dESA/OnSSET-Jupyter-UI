@@ -1,5 +1,7 @@
 # Author: Christopher Arderne
 # Date: 26 November 2016
+# Last modified by: KTH dESA
+# Last modification date: 12 October 2018
 # Python version: 3.5
 
 import os
