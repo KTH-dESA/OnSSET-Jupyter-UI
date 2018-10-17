@@ -1,5 +1,7 @@
-# Author: Christopher Arderne
-# Date: 26 November 2016
+# Initial Author: Christopher Arderne
+# Publication data: 16 November 2016
+# Last modifier: KTH dESA
+# Last modification date: 15 October 2018
 # Python version: 3.5
 
 import os
@@ -109,7 +111,7 @@ class Technology:
     start_year = 2015
     end_year = 2030
     discount_rate = 0.08
-    grid_cell_area = 1  # in km2, normally 1km2
+    grid_cell_area = 10  # in km2, normally 1km2
 
     mv_line_cost = 9000  # USD/km
     lv_line_cost = 5000  # USD/km
