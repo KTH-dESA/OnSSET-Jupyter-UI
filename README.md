@@ -2,7 +2,7 @@
 
 This repository contains a jupyter notebook which allow for a quick, screening electrification analysis using a simplified version of OnSSET. Sample files of Malawi are available for testing. Note, that both code and input files are only indicative and are only used here to showcase OnSSET's functionality.
 
-Instructions 
+### Instructions 
 
 1. Clone repository in a directory of your preference
 2. Start Jupyter notebook in the directory 
@@ -12,6 +12,6 @@ Instructions
 
 Note! Online vizualization does not work if tool runs offline.
 
-More information about the electrification tools is available at [OnSSET.org](https://github.com/KTH-dESA/PyOnSSET).
+More information about the electrification tool are available at [OnSSET.org](https://github.com/KTH-dESA/PyOnSSET).
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/kth-desa/pyonsset-jupyter)
